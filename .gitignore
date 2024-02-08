@@ -1,0 +1,4 @@
+dev/.terraform/
+staging/.terraform/
+dev/.terraform.lock.hcl
+staging/.terraform.lock.hcl
